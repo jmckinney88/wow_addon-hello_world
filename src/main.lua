@@ -1,0 +1,3 @@
+local _, namespace_table = ...
+
+message(string.format('HelloWorld, from %s', _))
